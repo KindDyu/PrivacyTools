@@ -113,7 +113,7 @@ Traduzido com a versão gratuita do tradutor - DeepL.com
 
 - [x] Selecione **Abas so site fechadas** em _Destruir_
 
-## Outras configurações de privacidade
+### Outras configurações de privacidade
 - [x] Selecione **Sem proteção** em _Navegação Segura_
 - [x] Selecione **Desativar UDP não proxy** em [Política de manuseio de IP do WebRTC](https://support.brave.com/hc/articles/360017989132-How-do-I-change-my-Privacy-Settings#webrtc)
 - [ ] Desmarque **Permitir que os sites verifiquem se você tem formas de pagamento salvas**
@@ -128,6 +128,9 @@ Traduzido com a versão gratuita do tradutor - DeepL.com
 
 ## Mecanismos de pesquisa
 - [ ] Desmarque **Mostrar sugestões de navegador**
+
+### Brave Sync
+[Brave Sync](https://support.brave.com/hc/articles/360059793111-Understanding-Brave-Sync) permite que seus dados de navegação (histórico, favoritos, etc.) estejam acessíveis em todos os seus dispositivos sem a necessidade de uma conta e os protege com a criptografia de ponta a ponta.
 
 </p></details>
 
