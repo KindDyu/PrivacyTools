@@ -105,7 +105,9 @@ As opções do Shields podem ser reduzidas individualmente para cada site, confo
 <details>
 <summary><strong>Usar listas de filtros padrão</strong></summary><p align="left">
 
-O Brave permite que você selecione filtros de conteúdo adicionais na página interna `brave://adblock`. Aconselho não usar esse recurso; em vez disso, mantenha as listas de filtros padrão. Usar listas extras fará com que você se destaque de outros usuários do Brave e também poderá aumentar a superfície de ataque se houver uma exploração no Brave e uma regra maliciosa for adicionada a uma das listas que você usa.
+O Brave permite que você selecione filtros de conteúdo adicionais no menu **Filtragem de conteúdo** ou na página interna `brave://adblock`. Não recomendo o uso desse recurso; em vez disso, mantenha as listas de filtros padrão. O uso de listas adicionais fará com que você se destaque dos demais usuários do Brave e também poderá aumentar a superfície de ataque caso haja uma vulnerabilidade no Brave e uma regra maliciosa seja adicionada a uma das listas que você utiliza.
+
+Traduzido com a versão gratuita do tradutor - DeepL.com
 
 </p></details>
 
