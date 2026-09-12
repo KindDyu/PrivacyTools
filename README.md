@@ -1,13 +1,13 @@
 # Navegadores
 
 ## [Tor Browser](https://www.torproject.org/)
-**Tor Browser** (desktop e Android) é a melhor escolha se você precisa de anonimato, pois ele fornece acesso à rede **Tor**, um grupo de servidores operados por voluntários que permite que você se conecte gratuitamente e melhore sua privacidade e segurança na Internet. Indivíduos e organizações também podem compartilhar informações pela rede Tor com "serviços ocultos .onion" sem comprometer sua privacidade. Como o tráfego do Tor é difícil de bloquear e rastrear, o Tor é uma ferramenta eficaz para contornar a censura.
+**Tor Browser** é um navegador focado em anonimato extremo que utiliza a rede Tor para rotear o tráfego através de múltiplos nós, ocultando o endereço IP e a identidade do usuário de forma muito robusta.
 
 ## [Mullvad Browser](https://mullvad.net/browser)
-**Mullvad Browser** é uma versão do [Tor Browser](#tor-browser) com integrações de rede Tor removidas, com o objetivo de fornecer tecnologias de navegador anti-impressão digital do Tor Browser para usuários de VPN.
+**Mullvad Browser** é uma versão focada em privacidade que importa as tecnologias de "anti-fingerprinting" (anti-impressão digital) do Tor para sua navegação, mas sem o uso da rede Tor, sendo ideal para ser usado com uma VPN ou conexão padrão.
 
 ## [Brave](https://brave.com/)
-**Brave** é um navegador privado por padrão baseado no Chromium, por isso deve parecer familiar e ter problemas mínimos de compatibilidade com o site.
+**Brave Browser** é um navegador privado por padrão baseado no Chromium, que bloqueia anúncios e rastreadores de forma nativa, oferecendo uma experiência familiar e com alta compatibilidade com sites.
 
 <details>
 <summary><strong>Configuração recomendada Brave Desktop</strong></summary><p align="left">
@@ -85,6 +85,6 @@ Os recursos Web3 do Brave podem potencialmente aumentar a impressão digital e a
 - [Configuração recomendada Brave Mobile](/SPA/navegação-na-internet/config-brave-mobile.md)
 
 ## [Firefox](https://firefox.com/)
-**Firefox** é uma ótima alternativa ao Chromium que oferece fortes configurações de privacidade, como [Proteção de Rastreamento Aprimorada](https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop), que pode ajudar a bloquear vários [tipos de rastreamento](https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_what-enhanced-tracking-protection-blocks).
+**Firefox Browser** é um navegador de código aberto e independente (com seu próprio motor, o Gecko), conhecido por ser altamente personalizável e oferecer um equilíbrio entre privacidade, extensões e uso para o usuário geral.
 
 - [Configuração recomendada Firefox](/SPA/navegação-na-internet/config-firefox.md)
