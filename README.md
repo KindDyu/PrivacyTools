@@ -82,7 +82,52 @@ Os recursos Web3 do Brave podem potencialmente aumentar a impressão digital e a
 
 </p></details>
 
-- [Configuração recomendada Brave Mobile](/SPA/navegação-na-internet/config-brave-mobile.md)
+<details>
+<summary><strong>Configuração recomendada Brave Mobile</strong></summary><p align="left">
+
+Essas opções podem ser encontradas em ⋮ → Configurações → Proteções do Brave e privacidade.
+
+## Padrões globai do Brave Shields
+O Brave inclui algumas medidas contra o rastreamento de impressões digitais no recurso Shields. Sugerimos que você configure essas opções globalmente em todas as páginas que visitar.
+
+As opções do Shields podem ser reduzidas individualmente para cada site, conforme necessário, mas, por padrão, recomendamos definir o seguinte:
+
+- [x] Selecione **Agressivo** em _Bloquear rastreadores e anúncios_
+- [x] Selecione **Redirecionar automaticamente páginas de AMP**
+- [x] Selecione **Redirecionar URLs de rastreamento automaticamente**
+- [x] Selecione **Estrito** em _Fazer upgrade das conexões para HTTPS_
+- [x] Selecione **Bloquear scripts** (Opcional)
+> Esta opção desativa o JavaScript, o que quebrará muitos sites. Para corrigi-los, você pode definir exceções por site clicando no ícone Escudo na barra de endereço e desmarcando essa configuração em _Opções avançados_.
+- [x] Selecione **Bloquear cookies de terceiros** em _Bloquear cookies_
+- [x] Selecione **Bloquear impressões digitais**
+- [x] Selecione **Evite impressões digitais por meio das configurações de idioma**
+
+<details>
+<summary><strong>Usar listas de filtros padrão</strong></summary><p align="left">
+
+O Brave permite que você selecione filtros de conteúdo adicionais na página interna `brave://adblock`. Aconselho não usar esse recurso; em vez disso, mantenha as listas de filtros padrão. Usar listas extras fará com que você se destaque de outros usuários do Brave e também poderá aumentar a superfície de ataque se houver uma exploração no Brave e uma regra maliciosa for adicionada a uma das listas que você usa.
+
+</p></details>
+
+- [x] Selecione **Abas so site fechadas** em _Destruir_
+
+## Outras configurações de privacidade
+- [x] Selecione **Sem proteção** em _Navegação Segura_
+- [x] Selecione **Desativar UDP não proxy** em [Política de manuseio de IP do WebRTC](https://support.brave.com/hc/articles/360017989132-How-do-I-change-my-Privacy-Settings#webrtc)
+- [ ] Desmarque **Permitir que os sites verifiquem se você tem formas de pagamento salvas**
+- [x] Selecione **Do no speed up sites with Brave's V8** em _Otimização e segurança de JavaScript_
+- [x] Selecione **Fechar as guias ao sair**
+- [ ] Desmarque **Enviar relatórios de diagnóstico automaticamente**
+- [ ] Desmarque **Enviar automaticamente um ping diário de uso ao Brave**
+- [ ] Desmarque **Autorizar pesquisas Brave**
+
+## Leo AI
+- [ ] Desmarque **Exibir sugestões de preenchimento automático na barra de endereço**
+
+## Mecanismos de pesquisa
+- [ ] Desmarque **Mostrar sugestões de navegador**
+
+</p></details>
 
 ## [Firefox](https://firefox.com/)
 **Firefox Browser** é um navegador de código aberto e independente (com seu próprio motor, o Gecko), conhecido por ser altamente personalizável e oferecer um equilíbrio entre privacidade, extensões e uso para o usuário geral.
