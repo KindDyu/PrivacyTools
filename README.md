@@ -87,10 +87,10 @@ Os recursos Web3 do Brave podem potencialmente aumentar a impressão digital e a
 
 Essas opções podem ser encontradas em ⋮ → Configurações → Proteções do Brave e privacidade.
 
-## Padrões globai do Brave Shields
-O Brave inclui algumas medidas contra o rastreamento de impressões digitais no recurso Shields. Sugerimos que você configure essas opções globalmente em todas as páginas que visitar.
+## Padrões globais do Brave Shields
+Brave inclui algumas medidas anti-impressão digital em seu recurso [Escudos](https://support.brave.com/hc/articles/360022973471-What-is-Shields). Sugiro configurar essas opções [globalmente](https://support.brave.com/hc/articles/360023646212-How-do-I-configure-global-and-site-specific-Shields-settings) em todas as páginas que você visita.
 
-As opções do Shields podem ser reduzidas individualmente para cada site, conforme necessário, mas, por padrão, recomendamos definir o seguinte:
+As opções do Escudo podem ser rebaixadas por site, conforme necessário, mas por padrão recomendo definir o seguinte:
 
 - [x] Selecione **Agressivo** em _Bloquear rastreadores e anúncios_
 - [x] Selecione **Redirecionar automaticamente páginas de AMP**
