@@ -146,23 +146,23 @@ Essas opções podem ser encontradas em ☰ → Configurações.
 
 ## Privacidade e Segurança
 ### Proteção aprimorada contra rastreamento
-- [ ] Selecione **Rigoroso** em _Proteção aprimorada contra rastreamento_
+- [x] Selecione **Rigoroso** em _Proteção aprimorada contra rastreamento_
 
 Isso protege você bloqueando rastreadores de mídia social, scripts de impressão digital (observe que isso não protege você de _todas_ as impressões digitais), criptomineradores, cookies de rastreamento entre sites e algum outro conteúdo de rastreamento. O ETP protege contra muitas ameaças comuns, mas não bloqueia todos os caminhos de rastreamento porque foi projetado para ter impacto mínimo ou nenhum na usabilidade do site.
 
 ### Dados de navegação
 Se você quiser permanecer conectado a sites específicos, poderá permitir exceções em **Dados de navegação → Gerenciar exceções...**
-- [ ] Selecione **Limpar cookies e dados de sites sempre que fechar o Firefox**
+- [x] Selecione **Limpar cookies e dados de sites sempre que fechar o Firefox**
 
 Isto protege-o de cookies persistentes, mas não o protege contra cookies adquiridos durante qualquer sessão de navegação. Quando isso estiver ativado, será possível limpar facilmente os cookies do seu navegador simplesmente reiniciando o Firefox. Você pode definir exceções por site, se desejar permanecer conectado a um site específico que visita com frequência.
 
 ### DNS sobre HTTPS
-- [ ] Selecione **Personalizado** em _Escolher provedor_ escolha um provedor adequado
+- [x] Selecione **Personalizado** em _Escolher provedor_ escolha um provedor adequado
 
 O **Personalizado** impõe o uso de DNS sobre HTTPS, e um aviso de segurança será exibido se o Firefox não conseguir se conectar ao seu resolvedor de DNS seguro ou se o seu resolvedor de DNS seguro disser que os registros do domínio que você está tentando acessar não existem. Isso impede que a rede à qual você está conectado faça o downgrade secreto da segurança do seu DNS.
 
 ### Conexão e segurança de software
-- [ ] Selecione **Ativar o modo somente HTTPS em todas as janelas**
+- [x] Selecione **Ativar o modo somente HTTPS em todas as janelas**
 
 Isso evita que você se conecte involuntariamente a um site em HTTP de texto simples. Sites sem HTTPS são incomuns hoje em dia, então isso deve ter pouco ou nenhum impacto na sua navegação diária.
 
@@ -170,7 +170,7 @@ Isso evita que você se conecte involuntariamente a um site em HTTP de texto sim
 - [ ] Desmarcar **Enviar dados técnicos e de interação para a Mozilla**
 - [ ] Desmarcar **Permitir recomendações personalizadas de extensões**
 - [ ] Desmarcar **Permitir que o Firefox execute estudos de funcionalidades**
-- [ ] **Desmarcar Permitir que o Firefox melhore funcionalidades, desempenho e estabilidade entre uma atualização e outra**
+- [ ] Desmarcar **Permitir que o Firefox melhore funcionalidades, desempenho e estabilidade entre uma atualização e outra**
 - [ ] Desmarcar **Enviar ping de uso diário para a Mozilla**
 - [ ] Desmarcar **Enviar relatórios de falhas automaticamente**
 
