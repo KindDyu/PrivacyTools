@@ -1,0 +1,2 @@
+# [Mullvad Browser](https://mullvad.net/browser)
+**Mullvad Browser** é uma versão focada em privacidade que importa as tecnologias de "anti-fingerprinting" (anti-impressão digital) do Tor para sua navegação, mas sem o uso da rede Tor, sendo ideal para ser usado com uma VPN ou conexão padrão.
