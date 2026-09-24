@@ -1,2 +1,0 @@
-# [Tor Browser](https://www.torproject.org/)
-**Tor Browser** é um navegador focado em anonimato extremo que utiliza a rede Tor para rotear o tráfego através de múltiplos nós, ocultando o endereço IP e a identidade do usuário de forma muito robusta.
